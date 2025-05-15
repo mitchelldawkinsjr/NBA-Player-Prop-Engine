@@ -6,7 +6,7 @@ import argparse
 import time
 
 # API keys
-API_KEY = "Q8dFT5OiJKaoQt4BAV7GnH60qhkatNOguLAYqlui"
+API_KEY = "{API_KEY_HERE}"
 BASE_URL = "https://api.sportradar.com"
 
 # Function to pull player stats by season and team

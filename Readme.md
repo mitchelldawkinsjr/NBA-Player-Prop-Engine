@@ -95,10 +95,7 @@ time.sleep(.500)
 ```
 
 ## License
-[Specify your license here]
-
-## Author
-[Your name or organization]
+MIT License
 
 ## Acknowledgments
 - [Sportradar API](https://developer.sportradar.com/) for providing NBA statistics data
